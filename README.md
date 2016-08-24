@@ -1,6 +1,6 @@
 # SQLiteCRUD
 
-Demonstrates CRUD operations using SQLite, ActionMode with multi selection on RecyclerView (need refactoring though), getting a 
+Demonstrates CRUD operations using SQLite, ActionMode with multi selection on RecyclerView (needs refactoring though), getting a 
 photo with the camera and using it on the app.
 
 +---+
