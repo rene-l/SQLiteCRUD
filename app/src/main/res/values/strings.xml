@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RLDemos - SQLite CRUD</string>
+    <string name="product_name_hint">Nome</string>
+    <string name="product_price_hint">Valor R$</string>
+    <string name="product_description_hint">Descrição</string>
+    <string name="default_prod_name">Título</string>
+    <string name="default_prod_desc">Descrição:</string>
+</resources>
